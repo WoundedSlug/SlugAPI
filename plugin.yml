@@ -1,0 +1,9 @@
+ name: SlugAPI
+ version: 1.4.1
+ description: This plugin is so 31337. You can set yourself on fire.
+ author: Wounded_Slug
+ main: me.WoundedSlug.SlugAPI.main
+ depend: [PermissionsEx]
+ commands:
+   addpoints:
+     description: fdsafd
